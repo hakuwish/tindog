@@ -1,2 +1,2 @@
 # tindog
-Tindog website. Meet new dogs nearby.
+Single page website which was made using Bootstrap. Adapted to mobile phones and tablets.
